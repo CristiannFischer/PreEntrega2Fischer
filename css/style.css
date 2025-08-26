@@ -1,0 +1,159 @@
+                             /*Estilos Index*/
+      /*Estilos Generales*/
+ul{list-style: none;} 
+*{ font-family: "Google Sans Code", monospace;}
+p{margin: 5rem;}
+.ubi{
+      padding: 3rem 0rem 0rem;
+}
+.galeria{
+       padding: 30rem 0rem 0rem;
+}
+
+      /*Header*/
+
+.navbar{ background-image: url(..//img/ypf_banner2.jpg);
+      background-repeat:no-repeat; 
+      background-size: cover; 
+      background-position: center;}
+
+   
+      /*Body*/
+.bodyindex { 
+      background-image: url(../img/estacion_del_futuro.jpg);
+      background-repeat:no-repeat; 
+      background-size: cover; 
+      background-position: center;}
+
+
+
+.bodyquienes{
+      background-image: url(../img/ypfbodyquienes.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;}
+
+.bodycontacto{
+      background-image: url(../img/Logotipoypf.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      
+}     
+                        /*Main*/
+
+                        /*Titulos*/
+.titulo1{ 
+      text-align: center; 
+      color: rgba(182, 174, 174, 0.562); 
+      font-size: 1.5rem;}
+.titulocomustibles{ 
+      text-align: center; 
+      color: rgba(182, 174, 174, 0.562) ;
+      font-size: 2rem}
+.titulolubricantes{ 
+      text-align: center; 
+      color: rgba(182, 174, 174, 0.562);
+      font-size: 2rem}
+.tituloleniaoro{
+      text-align: center; 
+      color: rgba(182, 174, 174, 0.562); 
+      font-size: 2rem }
+.titulofull{
+      text-align: center; 
+      color: rgba(182, 174, 174, 0.562);
+      font-size: 2rem}
+.tituloservicios{
+      text-align: center; 
+      color: rgba(182, 174, 174, 0.562);
+      font-size: 2rem}
+
+
+      /*Parrafos*/
+.parrafo1{ 
+      text-align: center; 
+      text-align: justify; 
+      color: rgba(182, 174, 174, 0.562); 
+      font-size: 1.5rem;}
+.parrafo2{
+      text-align: center; 
+      text-align: justify; 
+      color: rgba(182, 174, 174, 0.562); 
+      font-size:1.5rem;}
+.parrafo3{
+      text-align: center; 
+      text-align: justify; 
+      color: rgba(182, 174, 174, 0.562); 
+      font-size: 1.5rem;}
+.presentacion{
+      color: rgba(17, 17, 17, 0.568);
+      font-size: 1.5rem;
+      margin: 5rem;
+}
+      
+
+/*Listas Ordenadas*/
+.combustibles{ 
+      text-align: justify; 
+      color: rgba(182, 174, 174, 0.562); 
+      font-size: 1.5rem; }
+.lubricantes{
+      text-align: justify; 
+      color: rgba(182, 174, 174, 0.562);
+      font-size: 1.5rem;}
+.lineaoro{
+      text-align: justify; 
+      color: rgba(182, 174, 174, 0.562) ; 
+      font-size: 1.5rem;}      
+      
+
+      /*Estilo Imagenes /// Video*/
+.logomolino{
+      width: 20rem; 
+      height: 20rem;}
+.premioplata{
+      width: 20rem; 
+      height: 20rem;}
+.cargando{
+      width: 20rem; 
+      height: 20rem;}      
+.imagenfull{ 
+      width: 20rem; 
+      height: 20rem;}
+.imagenpapas{ 
+      width: 20rem; 
+      height: 20rem; }
+.imagencafe{ 
+      width: 20rem; 
+      height: 20rem;}
+
+.video1{ 
+      width: 30rem; 
+      height: 30rem;}
+.video2{ 
+      width: 30rem; 
+      height: 30rem;}
+
+
+      /*Footer*/
+.footer{ 
+      display: flex;
+      gap: 10 rem;
+      padding:0;
+      margin: 0;
+      align-items: center;
+}
+.pages{ 
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      color: rgb(255, 0, 0); 
+      font-size: 2rem;}
+      /*Estilos de logos*/
+.logowhatsapp{ width: 5rem;}
+.logoinsta{ width: 5rem;}
+.logoemail{width: 5rem;}
+.mapa{
+      width: 5rem;
+      height: 5rem;}
