@@ -7,7 +7,7 @@ p{margin: 5rem;}
       padding: 3rem 0rem 0rem;
 }
 .galeria{
-       padding: 30rem 0rem 0rem;
+       padding: 10rem 0rem 0rem;
 }
 
       /*Header*/
@@ -35,10 +35,8 @@ p{margin: 5rem;}
       background-attachment: fixed;}
 
 .bodycontacto{
-      background-image: url(../img/Logotipoypf.jpg);
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
+      background-color: rgb(89, 89, 247);
+    
       
 }     
                         /*Main*/
@@ -148,7 +146,7 @@ p{margin: 5rem;}
       list-style-type: none;
       margin: 0;
       padding: 0;
-      color: rgb(255, 0, 0); 
+      /*color: rgb(255, 0, 0);*/ 
       font-size: 2rem;}
       /*Estilos de logos*/
 .logowhatsapp{ width: 5rem;}
